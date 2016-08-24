@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/4/14 2:29:22。
+     1>项目“E:\study\C++code\leetCode6\leetCode6\leetCode6.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\leetCode6.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt leetCode6.cpp
+         leetCode6.cpp
+     1>e:\study\c++code\leetcode6\leetcode6\leetcode6.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\study\c++code\leetcode6\leetcode6\leetcode6.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\study\C++code\leetCode6\Debug\leetCode6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\study\C++code\leetCode6\Debug\leetCode6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\study\C++code\leetCode6\Debug\leetCode6.lib" /MACHINE:X86 Debug\leetCode6.obj
+         Debug\stdafx.obj
+         leetCode6.vcxproj -> E:\study\C++code\leetCode6\Debug\leetCode6.exe
+     1>已完成生成项目“E:\study\C++code\leetCode6\leetCode6\leetCode6.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.64

@@ -1,0 +1,66 @@
+﻿生成启动时间为 2016/4/10 22:45:16。
+     1>项目“E:\study\C++code\GLPK\GLPK\GLPK.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GLPK.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GLPK.cpp
+         GLPK.cpp
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(52): warning C4102: “s37”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(50): warning C4102: “s36”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(49): warning C4102: “s35”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(48): warning C4102: “s34”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(47): warning C4102: “s33”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(46): warning C4102: “s32”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(45): warning C4102: “s31”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(44): warning C4102: “s30”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(43): warning C4102: “s29”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(42): warning C4102: “s28”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(41): warning C4102: “s27”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(40): warning C4102: “s26”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(39): warning C4102: “s25”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(38): warning C4102: “s24”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(37): warning C4102: “s23”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(36): warning C4102: “s22”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(35): warning C4102: “s21”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(34): warning C4102: “s20”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(33): warning C4102: “s19”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(32): warning C4102: “s18”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(31): warning C4102: “s17”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(30): warning C4102: “s16”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(29): warning C4102: “s15”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(28): warning C4102: “s14”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(27): warning C4102: “s13”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(26): warning C4102: “s12”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(25): warning C4102: “s11”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(24): warning C4102: “s10”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(23): warning C4102: “s9”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(22): warning C4102: “s8”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(21): warning C4102: “s7”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(20): warning C4102: “s6”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(19): warning C4102: “s5”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(18): warning C4102: “s4”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(17): warning C4102: “s3”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(16): warning C4102: “s2”: 未引用的标签
+     1>e:\study\c++code\glpk\glpk\glpk.cpp(15): warning C4102: “s1”: 未引用的标签
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\study\C++code\GLPK\Debug\GLPK.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\study\C++code\GLPK\Debug\GLPK.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\study\C++code\GLPK\Debug\GLPK.lib" /MACHINE:X86 Debug\GLPK.obj
+         Debug\stdafx.obj
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_create_prob，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_set_prob_name，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_set_obj_dir，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_add_rows，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_add_cols，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_set_row_name，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_set_col_name，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_set_row_bnds，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_set_col_bnds，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_set_obj_coef，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_load_matrix，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_delete_prob，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_simplex，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_get_obj_val，该符号在函数 _main 中被引用
+     1>GLPK.obj : error LNK2019: 无法解析的外部符号 _glp_get_col_prim，该符号在函数 _main 中被引用
+     1>E:\study\C++code\GLPK\Debug\GLPK.exe : fatal error LNK1120: 15 个无法解析的外部命令
+     1>已完成生成项目“E:\study\C++code\GLPK\GLPK\GLPK.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.45

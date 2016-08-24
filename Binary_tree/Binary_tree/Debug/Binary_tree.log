@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016/7/14 14:25:39。
+     1>项目“E:\study\C++code\Binary_tree\Binary_tree\Binary_tree.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Binary_tree.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Binary_tree.cpp
+         Binary_tree.cpp
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\study\C++code\Binary_tree\Debug\Binary_tree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\study\C++code\Binary_tree\Debug\Binary_tree.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\study\C++code\Binary_tree\Debug\Binary_tree.lib" /MACHINE:X86 Debug\Binary_tree.obj
+         Debug\stdafx.obj
+         Binary_tree.vcxproj -> E:\study\C++code\Binary_tree\Debug\Binary_tree.exe
+     1>已完成生成项目“E:\study\C++code\Binary_tree\Binary_tree\Binary_tree.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.07

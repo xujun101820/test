@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/5/29 19:01:07。
+     1>项目“E:\study\C++code\sort algorithm\sort algorithm\sort algorithm.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\sort algorithm.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "sort algorithm.cpp"
+         sort algorithm.cpp
+     1>e:\study\c++code\sort algorithm\sort algorithm\sort algorithm.cpp(12): warning C4172: 返回局部变量或临时变量的地址
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\study\C++code\sort algorithm\Debug\sort algorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\study\C++code\sort algorithm\Debug\sort algorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\study\C++code\sort algorithm\Debug\sort algorithm.lib" /MACHINE:X86 "Debug\sort algorithm.obj"
+         Debug\stdafx.obj
+         sort algorithm.vcxproj -> E:\study\C++code\sort algorithm\Debug\sort algorithm.exe
+     1>已完成生成项目“E:\study\C++code\sort algorithm\sort algorithm\sort algorithm.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.51
